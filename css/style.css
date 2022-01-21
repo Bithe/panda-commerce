@@ -1,1 +1,7 @@
-.banner-bg-color {}
+.banner-bg-color {
+    background-color: #FEEAE9;
+}
+
+.linear-btn {
+    background-image: linear-gradient(60deg, #FF589B, #FF136F);
+}
