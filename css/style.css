@@ -2,6 +2,14 @@
     background-color: #FEEAE9;
 }
 
-.linear-btn {
+.linear-pink {
     background-image: linear-gradient(60deg, #FF589B, #FF136F);
+}
+
+.linear-yellow {
+    background-image: linear-gradient(60deg, #FF9C35, #FFD019);
+}
+
+.linear-blue {
+    background-image: linear-gradient(60deg, #4289FF, #3F07F8);
 }
